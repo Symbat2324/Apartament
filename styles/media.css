@@ -1,0 +1,12 @@
+@media screen and (max-width:1300px){
+    .container{
+        width: 100%;
+        padding: 0 30px;
+        box-sizing: border-box;
+    } 
+}
+@media screen and (max-width:800px){
+    .topline_img {
+        display: none;
+    }
+}
