@@ -10,3 +10,9 @@
         display: none;
     }
 }
+
+@media screen and (max-width:800px){
+    .topline_img {
+        display: none;
+    }
+}
